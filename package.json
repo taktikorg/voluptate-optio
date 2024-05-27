@@ -1,13 +1,13 @@
 {
   "name": "@taktikorg/voluptate-optio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "author": "taktikangt6",
   "license": "MIT",
   "dependencies": {
-    "@dramaorg/esse-praesentium-eligendi": "^2.3.20",
+    "@dramaorg/esse-praesentium-eligendi": "^2.3.21",
     "@juigorg/sit-nam-neque": "^1.0.24",
     "@kollorg/dicta-itaque-nemo": "^1.1.23",
     "@swenkerorg/modi-dolorum-provident": "^3.3.19",

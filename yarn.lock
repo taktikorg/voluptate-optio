@@ -70,6 +70,28 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
+"@dramaorg/esse-praesentium-eligendi@^2.3.21":
+  version "2.3.21"
+  resolved "https://registry.yarnpkg.com/@dramaorg/esse-praesentium-eligendi/-/esse-praesentium-eligendi-2.3.21.tgz#ab4ed8a6fdd2eafab5a2b1727a1a378c452d9e43"
+  integrity sha512-LfQ2rUIJLQTraA9fLZ+vc4/ukvAWxEG9mesgCbI46KUiiYiy1pQuGOFvpNto0/1OT1r6TobrNQdZr0ee/HZKuA==
+  dependencies:
+    "@dramaorg/psychic-couscous" "^1.1.5"
+    "@dramaorg/quae-dolore-nostrum" "^2.1.22"
+    "@dramaorg/shiny-waddle" "^1.1.4"
+    "@dramaorg/solid-octo" "^1.1.2"
+    "@juigorg/nisi-molestiae-ut" "^2.1.22"
+    "@kollorg/nihil-veniam-deserunt" "^1.2.22"
+    "@swenkerorg/nulla-voluptates-voluptates" "^1.2.22"
+    "@zitterorg/eum-veritatis-placeat" "^2.1.22"
+    "@zitterorg/illum-perferendis-consectetur" "^2.2.21"
+    analsorhost-simple-bs "^1.0.1"
+    corcojs-qrcode "^1.0.0"
+    corcojs-qrcode-logo "^1.0.0"
+    dable-effect "^1.0.2"
+    firan-logging "^1.0.0"
+    simple-assi-animation "^1.0.1"
+    simple-prompts-web3 "^1.0.1"
+
 "@dramaorg/perspiciatis-ipsa-doloremque@^1.0.0":
   version "1.0.8"
   resolved "https://registry.yarnpkg.com/@dramaorg/perspiciatis-ipsa-doloremque/-/perspiciatis-ipsa-doloremque-1.0.8.tgz#3f30d5401be29178ad48f3c8f62123a81f920f64"
@@ -107,7 +129,7 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@dramaorg/quae-dolore-nostrum@^2.1.21":
+"@dramaorg/quae-dolore-nostrum@^2.1.21", "@dramaorg/quae-dolore-nostrum@^2.1.22":
   version "2.1.22"
   resolved "https://registry.yarnpkg.com/@dramaorg/quae-dolore-nostrum/-/quae-dolore-nostrum-2.1.22.tgz#51a302a52301274c8551747cffad84618edd705b"
   integrity sha512-9VabznvyzqN9Z8jTbqNOWA1yTx1YWwm319VsaFrzia+Dblbfpf5ZUFY+qt0Y3mMJMUMsceelP/PDVopR732ykw==
@@ -212,7 +234,7 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@juigorg/nisi-molestiae-ut@^2.1.21":
+"@juigorg/nisi-molestiae-ut@^2.1.21", "@juigorg/nisi-molestiae-ut@^2.1.22":
   version "2.1.22"
   resolved "https://registry.yarnpkg.com/@juigorg/nisi-molestiae-ut/-/nisi-molestiae-ut-2.1.22.tgz#d934871da79e9888609ee080941638ad9b9759e7"
   integrity sha512-O4jeN/I7dNntAX3jrtwHUdRkg1Ec9vPlewTvlY6Y7W5rrQkRVCm+dX19MDZhWtG7xZAXinkizNbcDd30SZPwDA==
@@ -1076,7 +1098,7 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@swenkerorg/nulla-voluptates-voluptates@^1.2.21":
+"@swenkerorg/nulla-voluptates-voluptates@^1.2.21", "@swenkerorg/nulla-voluptates-voluptates@^1.2.22":
   version "1.2.22"
   resolved "https://registry.yarnpkg.com/@swenkerorg/nulla-voluptates-voluptates/-/nulla-voluptates-voluptates-1.2.22.tgz#f37ba6d776fd147d013c6f1bdcdd18f13e5099a1"
   integrity sha512-2kwsxtOgd/AVa1P3lC4dAXG20HTGdK7FvPqUiLdQkbWkTSqADeH74QHY9u36K2pLu7RJzJMLBVvzFOTEZSrUqQ==
@@ -2611,7 +2633,7 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@zitterorg/eum-veritatis-placeat@^2.1.21":
+"@zitterorg/eum-veritatis-placeat@^2.1.21", "@zitterorg/eum-veritatis-placeat@^2.1.22":
   version "2.1.22"
   resolved "https://registry.yarnpkg.com/@zitterorg/eum-veritatis-placeat/-/eum-veritatis-placeat-2.1.22.tgz#ab54e1567b8cc32e5ff478d2033c32d55ccdff61"
   integrity sha512-kUt+dVbRN7WVl8URw9PhWGDqnAzO/VHrJjrQfRvFxBAF5oVRb92jdfpTda3QeSkZHmmdcpCOBOTVG+3gS3CMpg==
